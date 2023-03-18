@@ -1,0 +1,2 @@
+conda create -n dsd python=3.10 -y
+conda init
